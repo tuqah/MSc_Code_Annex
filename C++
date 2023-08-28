@@ -1,2 +1,1 @@
-# C++ Codes for Project
-This folder includes three main C++ files, teleoperation.cpp, which was developed for the hand-controller, suturing_waypoint.cpp, which was used to execute the suturing task with the robot's assistance, and managing_ee.cpp, which was a code used before the suturing experiment was conducted; to assure that the end-effector was responsive, and to set the needle and the instrument on the end-effector.
+

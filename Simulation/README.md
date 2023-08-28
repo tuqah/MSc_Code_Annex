@@ -1,0 +1,2 @@
+# Simulation
+File for Simulation and the associated codes. It is worth mentioning that the custom end-effector and the experiment setup were added as STL files, as scene objects, and then attached to the robot (the ring and the base were attached to the base frame, and the custom end-effector was attached to the end-effector link of the robot). These objects were then published into RViz, in order to be considered into the motion planning system.
